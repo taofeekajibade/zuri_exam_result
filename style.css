@@ -15,7 +15,7 @@ header {
 }
 
 header, table, caption{
-   border: 2px solid mediumaquamarine;
+   border: 1px solid mediumaquamarine;
 }
 nav {
    width: 70%;
@@ -38,7 +38,8 @@ table {
   width: 100%;
   background: orange;
   border-collapse: collapse;
-  border-spacing: 0;
+  /* border-spacing: 0; */
+  padding: 5px;
 }
 
 th, caption, tr:nth-child(even) {

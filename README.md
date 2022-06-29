@@ -1,0 +1,1 @@
+Page can be accessed from here: https://cleargoaldigital.github.io/zuri_exam_result/
